@@ -1,0 +1,29 @@
+name: 'EVO:RAIL'
+favicon: null
+layout_spectrum: 0.11227715853601694
+typography_spectrum: 0.8239018854219466
+title: 'EVO:RAIL'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.12522108620032668
+  lightness: 0.2582681735511869
+  saturation: 0.12862137891352177
+  rhythmicContrast: 0.2782700976822525
+purpose: []
